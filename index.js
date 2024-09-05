@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Playing VALORANT"];
+const statusMessages = ["Listening to Spotify","Playing VALORANT"];[MADE IN GPO MIDDLEMANSERVICES],
 
 
 let currentIndex = 0;
